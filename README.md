@@ -2,6 +2,9 @@
 
 <h4>It would be better to execute this program in google colab.</h4>
 
+### Purpose:-
+ The purpose of this system is to allow users to get recommendations for their favourite shows
+
 ### Libraries needed for the program are:-
 
 1. import networkx as nx
@@ -16,7 +19,7 @@
 - [ ] Add a GUI.
 - [ ] Add more features which can be connected to the file(rather than just genre).
 - [ ] Add a file uploader in the GUI to allow for different files to be used as well as the option to alter the options on which the recommendations must be searched.
-- [ ] Display the result on the GUI.
+- [ ] Allow for a search function in GUI to allow the user to view the titles of the websites from the .csv file.
 
 ### How to contribute:-
 
