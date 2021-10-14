@@ -24,3 +24,4 @@
 ### How to contribute:-
 
 Make you way to the [contrinuting.md](https://github.com/acmpesuecc/Recommendation-System/blob/main/contributing.md) file .
+Note screenshots for each PR is needed.
