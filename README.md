@@ -1,9 +1,9 @@
 # Recommendation-system
 
-<h4>It would be better to execute this program in google colab.</h4>
+<h4>It would be optimal to execute this program in google colab.</h4>
 
 ### Purpose:-
- The purpose of this system is to allow users to get recommendations for their favourite shows
+ The purpose of this system is to allow users to get recommendations for their favourite shows and a further aim for anyone to find the best possible recommendation for any item as long as its data is specified in the .csv file .
 
 ### Libraries needed for the program are:-
 
@@ -23,10 +23,4 @@
 
 ### How to contribute:-
 
-1. Identify and raise an issue or ask to be assigned to a present issue.
-2. Fork the project
-3. Perform **git clone** on your fork and perform the changes on your local system.
-4. Enter **git** add your relevant files then enter **git commit -m "You message"**.
-5. Finally enter **git push**.
-6. Then go to github and press the contribute button to raise a pull request.
-7. Wait untill a reviewer sees your code and changes to the code.
+Make you way to the [contrinuting.md](https://github.com/acmpesuecc/Recommendation-System/blob/main/contributing.md) file .
