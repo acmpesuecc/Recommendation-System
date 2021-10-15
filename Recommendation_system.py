@@ -1,5 +1,7 @@
 
 # import librairies for the code to work or just use google colab.
+import tkinter as tk
+from tkinter import messagebox
 from sklearn.cluster import MiniBatchKMeans
 from sklearn.metrics.pairwise import linear_kernel
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -9,6 +11,19 @@ import pandas as pd
 import numpy as np
 import math as math
 import time
+
+#tkinter window
+root=tk.Tk() 
+root.title("Recommendations")
+root.state("zoomed")
+title_frame = tk.Frame(root, bg='#FAEBD7', bd=4)
+title_frame.place(relx=0.5, rely=0.1, relwidth=0.75, relheight=0.1, anchor='n')
+lower_frame = tk.Frame(root, bg='#FAEBD7', bd=15)
+lower_frame.place(relx=0.5, rely=0.25, relwidth=0.75, relheight=0.6, anchor='n')
+##background_image = tk.PhotoImage(file="Bg1.png")
+##bgimage_label = tk.Label(root, image=background_image)
+##bgimage_label.place(relwidth=1, relheight=1)
+
 plt.style.use('seaborn')
 plt.rcParams['figure.figsize'] = [14, 14]
 
