@@ -2,6 +2,8 @@
 
 <h2>It would be optimal to execute this program in google colab(Execute the notebook file in that google colab),unless you wish to run it as python code which could result in some errors.</h2>
 
+Cap of 5 pull requests on the entire repository during the boost period.
+
 ### Purpose:-
  The purpose of this system is to allow users to get recommendations for their favourite shows and a further aim for anyone to find the best possible recommendation for any item as long as its data is specified in the .csv file .
 
