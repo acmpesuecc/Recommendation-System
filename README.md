@@ -1,6 +1,6 @@
 # Recommendation-system
 
-<h4>It would be optimal to execute this program in google colab.</h4>
+<h2>It would be optimal to execute this program in google colab.</h2>
 
 ### Purpose:-
  The purpose of this system is to allow users to get recommendations for their favourite shows and a further aim for anyone to find the best possible recommendation for any item as long as its data is specified in the .csv file .
