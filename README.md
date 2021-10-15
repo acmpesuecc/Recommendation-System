@@ -1,4 +1,4 @@
-# Recommendation-system (# Cap of 5 pull requests on the entire repository during the boost period.)
+# Recommendation-system (Cap of 5 pull requests on the entire repository during the boost period.)
 
 <h2>It would be optimal to execute this program in google colab(Execute the notebook file in that google colab),unless you wish to run it as python code which could result in some errors.</h2>
 
